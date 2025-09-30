@@ -1,4 +1,4 @@
-const TRACKING_URL = 'https://opiceblum.app.n8n.cloud/webhook-test/fc870a18-719e-4ad1-84f9-f503995fd4a4'; 
+const TRACKING_URL = 'https://opiceblum.app.n8n.cloud/webhook/fc870a18-719e-4ad1-84f9-f503995fd4a4'; 
 const TRAINING_URL = 'google.com';
 
 document.addEventListener('DOMContentLoaded', () => {
