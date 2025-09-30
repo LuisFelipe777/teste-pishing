@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (loginForm) {
         
         loginForm.addEventListener('submit', function(event) {
-            
+            console.log("teste")
             // 1. IMPEDE O ENVIO REAL DO FORMULÁRIO
             event.preventDefault(); 
             
